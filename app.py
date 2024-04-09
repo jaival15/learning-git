@@ -1,3 +1,7 @@
-print ("This is my five version") 
+print ("This is my seven version") 
 print ("hello")
 print ("hi")
+print ("jaival") 
+print("ola")
+
+      
